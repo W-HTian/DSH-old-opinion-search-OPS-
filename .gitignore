@@ -1,0 +1,12 @@
+# node / build artifacts
+node_modules/
+*.log
+
+# local render output from dsh-recall/scripts/mock.mjs
+mock.html
+mock.css
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
